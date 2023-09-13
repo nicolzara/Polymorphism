@@ -23,7 +23,9 @@ namespace Task_1_Nicol_Zarankin
             {
                 if (animals[i] == null)
                 {
+                    numOfAnimals++;
                     animals[i] = animal;
+                    return;
                 }
             }
         }
