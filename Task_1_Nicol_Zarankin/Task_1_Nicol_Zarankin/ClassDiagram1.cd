@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Task_1_Nicol_Zarankin.Snake" Collapsed="true">
+    <Position X="12" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAIAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Snake .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_1_Nicol_Zarankin.Reptile" Collapsed="true">
+    <Position X="13.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAGAAAAAAAAAABAAAQAQAAAAAAAQAA=</HashCode>
+      <FileName>Reptile .cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Task_1_Nicol_Zarankin.Park" Collapsed="true">
+    <Position X="23.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAEAAABAAAABAEAAAAAAA=</HashCode>
+      <FileName>Park .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_1_Nicol_Zarankin.Mammal" Collapsed="true">
+    <Position X="17.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAEAAAAAAEIAAgAAACAAAAAAAAAAAAIAAAAAI=</HashCode>
+      <FileName>Mammal .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_1_Nicol_Zarankin.Hipo" Collapsed="true">
+    <Position X="18.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAQEAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Hipo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_1_Nicol_Zarankin.Crocodile" Collapsed="true">
+    <Position X="14.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAIAAEAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Crocodile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_1_Nicol_Zarankin.Cow" Collapsed="true">
+    <Position X="16.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAEAAAAEAAAAAAAAAAAAAAAQAAEAAAAAAAA=</HashCode>
+      <FileName>Cow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_1_Nicol_Zarankin.Colibri" Collapsed="true">
+    <Position X="21" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAABAAAAAAAAAAAAAAAAEAAQA=</HashCode>
+      <FileName>Colibri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_1_Nicol_Zarankin.Cobra" Collapsed="true">
+    <Position X="12" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAACAEAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cobra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Task_1_Nicol_Zarankin.Bird" Collapsed="true">
+    <Position X="21" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAABAAAAAIAAEAAEAAAAAAAIAAAAAEgABAAAAAAE=</HashCode>
+      <FileName>Bird.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Task_1_Nicol_Zarankin.Animal" Collapsed="true">
+    <Position X="16.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEIBCQCAEAAAAAAAIAAAECAAAAAAARCAABAA=</HashCode>
+      <FileName>Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Task_1_Nicol_Zarankin.IReptile" Collapsed="true">
+    <Position X="25.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>IReptile .cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Task_1_Nicol_Zarankin.IBird" Collapsed="true">
+    <Position X="23.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAgABAAAAAAA=</HashCode>
+      <FileName>IBird .cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
